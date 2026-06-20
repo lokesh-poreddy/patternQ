@@ -1,1 +1,1 @@
-This repo is about my learnings on the codes and formats and patterns 
+This repo is about my learnings on the codes, formats and patterns 
